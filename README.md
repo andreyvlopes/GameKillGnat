@@ -32,3 +32,7 @@ Este projeto é um jogo simples chamado "Mata Mosquito", criado como parte de um
 ## Agradecimentos
 
 Agradeço ao curso da Udemy e ao instrutor por fornecerem o conhecimento necessário para desenvolver este projeto. O curso foi uma excelente oportunidade para aprimorar minhas habilidades em desenvolvimento web e me proporcionou a criação de um projeto divertido como esse.
+
+## Licença
+
+[![Licença: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/andreyvlopes/GameKillGnat/blob/main/LICENSE)
